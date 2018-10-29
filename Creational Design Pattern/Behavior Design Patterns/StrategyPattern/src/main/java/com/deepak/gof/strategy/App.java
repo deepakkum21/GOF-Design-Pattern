@@ -1,4 +1,4 @@
-package com.deepak.gof.abstractfactory;
+package com.deepak.gof;
 
 /**
  * Hello world!
