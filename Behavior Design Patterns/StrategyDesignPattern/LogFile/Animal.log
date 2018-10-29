@@ -1,0 +1,3 @@
+INFO  | 2018-10-29 19:10:21 | [main] strategy.AnimalStrategyPattern (AnimalStrategyPattern.java:15) - Dog: I can't fly
+INFO  | 2018-10-29 19:10:21 | [main] strategy.AnimalStrategyPattern (AnimalStrategyPattern.java:17) - Bird: Flying High
+INFO  | 2018-10-29 19:10:21 | [main] strategy.AnimalStrategyPattern (AnimalStrategyPattern.java:23) - Dog: Flying High
