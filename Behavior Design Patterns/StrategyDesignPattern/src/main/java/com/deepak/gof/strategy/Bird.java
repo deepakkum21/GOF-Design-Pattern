@@ -1,5 +1,7 @@
 package com.deepak.gof.strategy;
 
+import com.deepak.gof.strategy.flying.ItFlys;
+
 public class Bird extends Animal {
 	
 	// The constructor initializes all objects

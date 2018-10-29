@@ -1,5 +1,7 @@
 package com.deepak.gof.strategy;
 
+import com.deepak.gof.strategy.flying.CantFly;
+
 public class Dog extends Animal {
 	
 	public void digHole(){

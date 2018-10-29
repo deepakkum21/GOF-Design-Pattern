@@ -1,3 +1,11 @@
 INFO  | 2018-10-29 19:10:21 | [main] strategy.AnimalStrategyPattern (AnimalStrategyPattern.java:15) - Dog: I can't fly
 INFO  | 2018-10-29 19:10:21 | [main] strategy.AnimalStrategyPattern (AnimalStrategyPattern.java:17) - Bird: Flying High
 INFO  | 2018-10-29 19:10:21 | [main] strategy.AnimalStrategyPattern (AnimalStrategyPattern.java:23) - Dog: Flying High
+INFO  | 2018-10-29 19:16:07 | [main] strategy.AnimalStrategyPattern (AnimalStrategyPattern.java:15) - Dog: I can't fly
+INFO  | 2018-10-29 19:16:07 | [main] strategy.AnimalStrategyPattern (AnimalStrategyPattern.java:17) - Bird: Flying High
+INFO  | 2018-10-29 19:16:07 | [main] strategy.AnimalStrategyPattern (AnimalStrategyPattern.java:22) -  When Changing the flying Ablity of Dog
+INFO  | 2018-10-29 19:16:07 | [main] strategy.AnimalStrategyPattern (AnimalStrategyPattern.java:23) - Dog: Flying High
+INFO  | 2018-10-29 20:03:29 | [main] strategy.AnimalStrategyPattern (AnimalStrategyPattern.java:17) - Dog: I can't fly
+INFO  | 2018-10-29 20:03:29 | [main] strategy.AnimalStrategyPattern (AnimalStrategyPattern.java:19) - Bird: Flying High
+INFO  | 2018-10-29 20:03:29 | [main] strategy.AnimalStrategyPattern (AnimalStrategyPattern.java:24) - When Changing the flying Ablity of Dog
+INFO  | 2018-10-29 20:03:29 | [main] strategy.AnimalStrategyPattern (AnimalStrategyPattern.java:25) - Dog: Flying High

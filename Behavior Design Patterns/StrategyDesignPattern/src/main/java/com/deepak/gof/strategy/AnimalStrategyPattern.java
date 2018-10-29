@@ -1,5 +1,7 @@
 package com.deepak.gof.strategy;
 
+import com.deepak.gof.strategy.flying.ItFlys;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -19,7 +21,7 @@ public class AnimalStrategyPattern {
 		// This allows dynamic changes for flyingType
 		
 		sparky.setFlyingAbility(new ItFlys());
-		
+		logger.info("When Changing the flying Ablity of Dog");
 		logger.info("Dog: " + sparky.tryToFly());
 		
 	}
