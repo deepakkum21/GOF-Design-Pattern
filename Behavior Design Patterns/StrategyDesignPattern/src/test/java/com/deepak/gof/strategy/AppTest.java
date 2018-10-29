@@ -1,4 +1,4 @@
-package com.deepak.gof;
+package com.deepak.gof.strategy;
 
 import org.junit.Test;
 
