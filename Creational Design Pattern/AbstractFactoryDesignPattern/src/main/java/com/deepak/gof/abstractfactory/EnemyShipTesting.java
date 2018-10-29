@@ -10,6 +10,7 @@ public class EnemyShipTesting {
 
     EnemyShipTesting() {
         bufferReader = new BufferedReader(new InputStreamReader(System.in));
+        
     }
 
     public static void main(String[] args) throws NumberFormatException, IOException {
