@@ -19,7 +19,7 @@ public class OperationStrategy {
     private int operand1;
     private int operand2;
 
-    BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+    private BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
     public static void main(String... args) throws NumberFormatException, IOException {
         OperationStrategy myOperationStrategy = new OperationStrategy();
