@@ -1,6 +1,6 @@
 
 # Strategy.
-Allows one of a family of algorithms to be selected on-the-fly at run-time.
+Allows one of a family of algorithms to be selected on-the-fly at run-time i.e. a class behavior or its algorithm can be changed at run time.
 
 
 ## When to use

@@ -4,17 +4,17 @@
 	in the editor. -->
 <Configuration xmlns="http://logging.apache.org/log4j/2.0/config">
 	<Appenders>
-		<File name="StrategyPattern" fileName="LogFile\Animal.log" append="true">
+		<File name="AnimalStrategyPattern" fileName="LogFile\Animal.log" append="true">
 			<PatternLayout
 				pattern="%-5p | %d{yyyy-MM-dd HH:mm:ss} | [%t] %C{2} (%F:%L) - %m%n" />
 		</File>
 		
-		<!-- <File name="empPersonal" fileName="LogFile\PersonalLogfile.log" append="true">
+		<File name="OperationStrategyPattern" fileName="LogFile\Operation.log" append="true">
 			<PatternLayout
 				pattern="%-5p | %d{yyyy-MM-dd HH:mm:ss} | [%t] %C{2} (%F:%L) - %m%n" />
 		</File>
 		
-		<File name="empAcademic" fileName="LogFile\AcademicLogfile.log" append="true">
+		<!-- <File name="empAcademic" fileName="LogFile\AcademicLogfile.log" append="true">
 			<PatternLayout
 				pattern="%-5p | %d{yyyy-MM-dd HH:mm:ss} | [%t] %C{2} (%F:%L) - %m%n" />
 		</File>
@@ -38,14 +38,14 @@
 	<Loggers>
 	<Logger name="com.deepak.gof.strategy.AnimalStrategyPattern" level="info" additivity="false">
 			<AppenderRef ref="STDOUT" />
-			<AppenderRef ref="StrategyPattern" />
+			<AppenderRef ref="AnimalStrategyPattern" />
 		</Logger>
-		<!-- <Logger name="com.stpl.deepak.employee.management" level="info" additivity="false">
+		<Logger name="com.deepak.gof.strategy.demo2.OperationStrategy" level="info" additivity="false">
 			<AppenderRef ref="STDOUT" />
-			<AppenderRef ref="emp" />
+			<AppenderRef ref="OperationStrategyPattern" />
 		</Logger>
 			
-		<Logger name="com.stpl.deepak.employee.personal" level="info" additivity="false">
+		<!-- <Logger name="com.stpl.deepak.employee.personal" level="info" additivity="false">
 			<AppenderRef ref="STDOUT" />
 			<AppenderRef ref="empPersonal" />
 		</Logger>

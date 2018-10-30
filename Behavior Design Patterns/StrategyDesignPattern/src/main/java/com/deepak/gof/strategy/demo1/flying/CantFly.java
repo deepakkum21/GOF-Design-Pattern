@@ -1,4 +1,4 @@
-package com.deepak.gof.strategy.flying;
+package com.deepak.gof.strategy.demo1.flying;
 
 //Class used if the Animal can't fly
  

@@ -1,4 +1,4 @@
-package com.deepak.gof.strategy.flying;
+package com.deepak.gof.strategy.demo1.flying;
 
 // The interface is implemented by many other
 // subclasses that allow for many types of flying

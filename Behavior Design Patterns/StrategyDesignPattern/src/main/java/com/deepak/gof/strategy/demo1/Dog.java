@@ -1,6 +1,6 @@
-package com.deepak.gof.strategy;
+package com.deepak.gof.strategy.demo1;
 
-import com.deepak.gof.strategy.flying.CantFly;
+import com.deepak.gof.strategy.demo1.flying.CantFly;
 
 public class Dog extends Animal {
 	

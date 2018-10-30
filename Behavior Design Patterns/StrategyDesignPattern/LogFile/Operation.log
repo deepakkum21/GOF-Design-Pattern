@@ -1,0 +1,636 @@
+INFO  | 2018-10-30 11:18:10 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:18:10 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:18:10 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:18:10 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:18:10 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:18:10 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:18:10 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:18:31 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:18:31 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:18:31 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:18:31 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:18:31 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:18:31 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:18:31 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:18:57 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:18:57 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:18:57 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:18:57 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:18:57 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:18:57 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:18:57 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:19:02 | [main] demo2.OperationStrategy (OperationStrategy.java:39) - 
+ Enter the value for Operand1: 
+INFO  | 2018-10-30 11:19:05 | [main] demo2.OperationStrategy (OperationStrategy.java:41) - 
+ Enter the value for Operand2: 
+INFO  | 2018-10-30 11:19:08 | [main] demo2.OperationStrategy (OperationStrategy.java:47) - The result is: 11
+INFO  | 2018-10-30 11:19:15 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:19:15 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:19:15 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:19:15 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:19:15 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:19:15 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:19:15 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:20:40 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:20:40 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:20:40 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:20:40 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:20:40 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:20:40 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:20:40 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:20:42 | [main] demo2.OperationStrategy (OperationStrategy.java:39) - 
+ Enter the value for Operand1: 
+INFO  | 2018-10-30 11:20:44 | [main] demo2.OperationStrategy (OperationStrategy.java:41) - 
+ Enter the value for Operand2: 
+INFO  | 2018-10-30 11:20:45 | [main] demo2.OperationStrategy (OperationStrategy.java:52) - The result is: -1
+INFO  | 2018-10-30 11:20:45 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:20:45 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:20:45 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:20:45 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:20:45 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:20:45 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:20:45 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:20:52 | [main] demo2.OperationStrategy (OperationStrategy.java:39) - 
+ Enter the value for Operand1: 
+INFO  | 2018-10-30 11:20:58 | [main] demo2.OperationStrategy (OperationStrategy.java:41) - 
+ Enter the value for Operand2: 
+INFO  | 2018-10-30 11:24:22 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:24:22 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:24:22 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:24:22 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:24:22 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:24:22 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:24:22 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:24:25 | [main] demo2.OperationStrategy (OperationStrategy.java:39) - 
+ Enter the value for Operand1: 
+INFO  | 2018-10-30 11:24:26 | [main] demo2.OperationStrategy (OperationStrategy.java:41) - 
+ Enter the value for Operand2: 
+INFO  | 2018-10-30 11:24:27 | [main] demo2.OperationStrategy (OperationStrategy.java:62) - The result is: 404
+INFO  | 2018-10-30 11:24:27 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:24:27 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:24:27 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:24:27 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:24:27 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:24:27 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:24:27 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:28:25 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:28:25 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:28:25 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:28:25 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:28:25 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:28:25 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:28:25 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:28:28 | [main] demo2.OperationStrategy (OperationStrategy.java:39) - 
+ Enter the value for Operand1: 
+INFO  | 2018-10-30 11:28:30 | [main] demo2.OperationStrategy (OperationStrategy.java:41) - 
+ Enter the value for Operand2: 
+INFO  | 2018-10-30 11:28:32 | [main] demo2.OperationStrategy (OperationStrategy.java:62) - The result is: 404
+INFO  | 2018-10-30 11:28:32 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:28:32 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:28:32 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:28:32 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:28:32 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:28:32 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:28:32 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:29:00 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:29:00 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:29:00 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:29:00 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:29:00 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:29:00 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:29:00 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:29:03 | [main] demo2.OperationStrategy (OperationStrategy.java:39) - 
+ Enter the value for Operand1: 
+INFO  | 2018-10-30 11:29:14 | [main] demo2.OperationStrategy (OperationStrategy.java:41) - 
+ Enter the value for Operand2: 
+INFO  | 2018-10-30 11:29:15 | [main] demo2.OperationStrategy (OperationStrategy.java:66) - Selected A wrong choice
+INFO  | 2018-10-30 11:29:15 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:29:15 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:29:15 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:29:15 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:29:15 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:29:15 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:29:15 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:58:07 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:58:07 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:58:07 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:58:07 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:58:07 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:58:07 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:58:07 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:58:12 | [main] demo2.OperationStrategy (OperationStrategy.java:68) - 
+ Enter the value for Operand1: 
+INFO  | 2018-10-30 11:58:14 | [main] demo2.OperationStrategy (OperationStrategy.java:70) - 
+ Enter the value for Operand2: 
+INFO  | 2018-10-30 11:58:15 | [main] demo2.OperationStrategy (OperationStrategy.java:43) - The result is: 15
+INFO  | 2018-10-30 11:58:15 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:58:15 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:58:15 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:58:15 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:58:15 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:58:15 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:58:15 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:58:20 | [main] demo2.OperationStrategy (OperationStrategy.java:48) - The result is: 3
+INFO  | 2018-10-30 11:58:20 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:58:20 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:58:20 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:58:20 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:58:20 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:58:20 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:58:20 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:58:23 | [main] demo2.OperationStrategy (OperationStrategy.java:62) - Selected A wrong choice
+INFO  | 2018-10-30 11:58:23 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:58:23 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:58:23 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:58:23 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:58:23 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:58:23 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:58:23 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:58:32 | [main] demo2.OperationStrategy (OperationStrategy.java:48) - The result is: 3
+INFO  | 2018-10-30 11:58:32 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:58:32 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:58:32 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:58:32 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:58:32 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:58:32 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:58:32 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:58:34 | [main] demo2.OperationStrategy (OperationStrategy.java:62) - Selected A wrong choice
+INFO  | 2018-10-30 11:58:34 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:58:34 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:58:34 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:58:34 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:58:34 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:58:34 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:58:34 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:58:42 | [main] demo2.OperationStrategy (OperationStrategy.java:48) - The result is: 3
+INFO  | 2018-10-30 11:58:42 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:58:42 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:58:42 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:58:42 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:58:42 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:58:42 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:58:42 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:58:45 | [main] demo2.OperationStrategy (OperationStrategy.java:48) - The result is: 3
+INFO  | 2018-10-30 11:58:45 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:58:45 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:58:45 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:58:45 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:58:45 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:58:45 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:58:45 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:58:46 | [main] demo2.OperationStrategy (OperationStrategy.java:48) - The result is: 3
+INFO  | 2018-10-30 11:58:46 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:58:46 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:58:46 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:58:46 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:58:46 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:58:46 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:58:46 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:58:46 | [main] demo2.OperationStrategy (OperationStrategy.java:48) - The result is: 3
+INFO  | 2018-10-30 11:58:46 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:58:46 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:58:46 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:58:46 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:58:46 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:58:46 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:58:46 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:58:47 | [main] demo2.OperationStrategy (OperationStrategy.java:48) - The result is: 3
+INFO  | 2018-10-30 11:58:47 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:58:47 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:58:47 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:58:47 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:58:47 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:58:47 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:58:47 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:58:47 | [main] demo2.OperationStrategy (OperationStrategy.java:48) - The result is: 3
+INFO  | 2018-10-30 11:58:47 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:58:47 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:58:47 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:58:47 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:58:47 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:58:47 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:58:47 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:58:48 | [main] demo2.OperationStrategy (OperationStrategy.java:48) - The result is: 3
+INFO  | 2018-10-30 11:58:48 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:58:48 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:58:48 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:58:48 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:58:48 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:58:48 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:58:48 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:58:49 | [main] demo2.OperationStrategy (OperationStrategy.java:48) - The result is: 3
+INFO  | 2018-10-30 11:58:49 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:58:49 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:58:49 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:58:49 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:58:49 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:58:49 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:58:49 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:58:50 | [main] demo2.OperationStrategy (OperationStrategy.java:48) - The result is: 3
+INFO  | 2018-10-30 11:58:50 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:58:50 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:58:50 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:58:50 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:58:50 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:58:50 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:58:50 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:59:27 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:59:27 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:59:27 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:59:27 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:59:27 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:59:27 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:59:27 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:59:31 | [main] demo2.OperationStrategy (OperationStrategy.java:68) - 
+ Enter the value for Operand1: 
+INFO  | 2018-10-30 11:59:34 | [main] demo2.OperationStrategy (OperationStrategy.java:70) - 
+ Enter the value for Operand2: 
+INFO  | 2018-10-30 11:59:35 | [main] demo2.OperationStrategy (OperationStrategy.java:43) - The result is: 5
+INFO  | 2018-10-30 11:59:35 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:59:35 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:59:35 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:59:35 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:59:35 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:59:35 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:59:35 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 11:59:38 | [main] demo2.OperationStrategy (OperationStrategy.java:48) - The result is: -1
+INFO  | 2018-10-30 11:59:38 | [main] demo2.OperationStrategy (OperationStrategy.java:26) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 11:59:38 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - 
+ 1. Addition
+INFO  | 2018-10-30 11:59:38 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 2. Subtraction
+INFO  | 2018-10-30 11:59:38 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 3. Multiplication
+INFO  | 2018-10-30 11:59:38 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 4. Division
+INFO  | 2018-10-30 11:59:38 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 5. Exit
+INFO  | 2018-10-30 11:59:38 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ Enter the choice: 
+INFO  | 2018-10-30 12:02:42 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 12:02:42 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 1. Addition
+INFO  | 2018-10-30 12:02:42 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 2. Subtraction
+INFO  | 2018-10-30 12:02:42 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 3. Multiplication
+INFO  | 2018-10-30 12:02:42 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 4. Division
+INFO  | 2018-10-30 12:02:42 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ 5. Exit
+INFO  | 2018-10-30 12:02:42 | [main] demo2.OperationStrategy (OperationStrategy.java:33) - 
+ Enter the choice: 
+INFO  | 2018-10-30 12:02:44 | [main] demo2.OperationStrategy (OperationStrategy.java:76) - 
+ Enter the value for Operand1: 
+INFO  | 2018-10-30 12:02:46 | [main] demo2.OperationStrategy (OperationStrategy.java:78) - 
+ Enter the value for Operand2: 
+INFO  | 2018-10-30 12:02:47 | [main] demo2.OperationStrategy (OperationStrategy.java:44) - The result is: 8
+INFO  | 2018-10-30 12:02:47 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 12:02:47 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 1. Addition
+INFO  | 2018-10-30 12:02:47 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 2. Subtraction
+INFO  | 2018-10-30 12:02:47 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 3. Multiplication
+INFO  | 2018-10-30 12:02:47 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 4. Division
+INFO  | 2018-10-30 12:02:47 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ 5. Exit
+INFO  | 2018-10-30 12:02:47 | [main] demo2.OperationStrategy (OperationStrategy.java:33) - 
+ Enter the choice: 
+INFO  | 2018-10-30 12:02:49 | [main] demo2.OperationStrategy (OperationStrategy.java:76) - 
+ Enter the value for Operand1: 
+INFO  | 2018-10-30 12:02:51 | [main] demo2.OperationStrategy (OperationStrategy.java:78) - 
+ Enter the value for Operand2: 
+INFO  | 2018-10-30 12:02:52 | [main] demo2.OperationStrategy (OperationStrategy.java:51) - The result is: 1
+INFO  | 2018-10-30 12:02:52 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 12:02:52 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 1. Addition
+INFO  | 2018-10-30 12:02:52 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 2. Subtraction
+INFO  | 2018-10-30 12:02:52 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 3. Multiplication
+INFO  | 2018-10-30 12:02:52 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 4. Division
+INFO  | 2018-10-30 12:02:52 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ 5. Exit
+INFO  | 2018-10-30 12:02:52 | [main] demo2.OperationStrategy (OperationStrategy.java:33) - 
+ Enter the choice: 
+INFO  | 2018-10-30 12:02:54 | [main] demo2.OperationStrategy (OperationStrategy.java:76) - 
+ Enter the value for Operand1: 
+INFO  | 2018-10-30 12:02:56 | [main] demo2.OperationStrategy (OperationStrategy.java:78) - 
+ Enter the value for Operand2: 
+INFO  | 2018-10-30 12:02:57 | [main] demo2.OperationStrategy (OperationStrategy.java:58) - The result is: 0
+INFO  | 2018-10-30 12:02:57 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 12:02:57 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 1. Addition
+INFO  | 2018-10-30 12:02:57 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 2. Subtraction
+INFO  | 2018-10-30 12:02:57 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 3. Multiplication
+INFO  | 2018-10-30 12:02:57 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 4. Division
+INFO  | 2018-10-30 12:02:57 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ 5. Exit
+INFO  | 2018-10-30 12:02:57 | [main] demo2.OperationStrategy (OperationStrategy.java:33) - 
+ Enter the choice: 
+INFO  | 2018-10-30 12:03:03 | [main] demo2.OperationStrategy (OperationStrategy.java:76) - 
+ Enter the value for Operand1: 
+INFO  | 2018-10-30 12:03:04 | [main] demo2.OperationStrategy (OperationStrategy.java:78) - 
+ Enter the value for Operand2: 
+INFO  | 2018-10-30 12:03:06 | [main] demo2.OperationStrategy (OperationStrategy.java:65) - The result is: 404
+INFO  | 2018-10-30 12:03:06 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 12:03:06 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 1. Addition
+INFO  | 2018-10-30 12:03:06 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 2. Subtraction
+INFO  | 2018-10-30 12:03:06 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 3. Multiplication
+INFO  | 2018-10-30 12:03:06 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 4. Division
+INFO  | 2018-10-30 12:03:06 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ 5. Exit
+INFO  | 2018-10-30 12:03:06 | [main] demo2.OperationStrategy (OperationStrategy.java:33) - 
+ Enter the choice: 
+INFO  | 2018-10-30 12:03:41 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 12:03:41 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 1. Addition
+INFO  | 2018-10-30 12:03:41 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 2. Subtraction
+INFO  | 2018-10-30 12:03:41 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 3. Multiplication
+INFO  | 2018-10-30 12:03:41 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 4. Division
+INFO  | 2018-10-30 12:03:41 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ 5. Exit
+INFO  | 2018-10-30 12:03:41 | [main] demo2.OperationStrategy (OperationStrategy.java:33) - 
+ Enter the choice: 
+INFO  | 2018-10-30 12:03:44 | [main] demo2.OperationStrategy (OperationStrategy.java:76) - 
+ Enter the value for Operand1: 
+INFO  | 2018-10-30 12:03:45 | [main] demo2.OperationStrategy (OperationStrategy.java:78) - 
+ Enter the value for Operand2: 
+INFO  | 2018-10-30 12:03:47 | [main] demo2.OperationStrategy (OperationStrategy.java:65) - The result is: 13
+INFO  | 2018-10-30 12:03:47 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 12:03:47 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 1. Addition
+INFO  | 2018-10-30 12:03:47 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 2. Subtraction
+INFO  | 2018-10-30 12:03:47 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 3. Multiplication
+INFO  | 2018-10-30 12:03:47 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 4. Division
+INFO  | 2018-10-30 12:03:47 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ 5. Exit
+INFO  | 2018-10-30 12:03:47 | [main] demo2.OperationStrategy (OperationStrategy.java:33) - 
+ Enter the choice: 
+INFO  | 2018-10-30 12:04:19 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 12:04:19 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 1. Addition
+INFO  | 2018-10-30 12:04:19 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 2. Subtraction
+INFO  | 2018-10-30 12:04:19 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 3. Multiplication
+INFO  | 2018-10-30 12:04:19 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 4. Division
+INFO  | 2018-10-30 12:04:19 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ 5. Exit
+INFO  | 2018-10-30 12:04:19 | [main] demo2.OperationStrategy (OperationStrategy.java:33) - 
+ Enter the choice: 
+INFO  | 2018-10-30 12:04:22 | [main] demo2.OperationStrategy (OperationStrategy.java:76) - 
+ Enter the value for Operand1: 
+INFO  | 2018-10-30 12:04:23 | [main] demo2.OperationStrategy (OperationStrategy.java:78) - 
+ Enter the value for Operand2: 
+INFO  | 2018-10-30 12:04:24 | [main] demo2.OperationStrategy (OperationStrategy.java:65) - The result is: 0
+INFO  | 2018-10-30 12:04:24 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 12:04:24 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 1. Addition
+INFO  | 2018-10-30 12:04:24 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 2. Subtraction
+INFO  | 2018-10-30 12:04:24 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 3. Multiplication
+INFO  | 2018-10-30 12:04:24 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 4. Division
+INFO  | 2018-10-30 12:04:24 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ 5. Exit
+INFO  | 2018-10-30 12:04:24 | [main] demo2.OperationStrategy (OperationStrategy.java:33) - 
+ Enter the choice: 
+INFO  | 2018-10-30 12:04:27 | [main] demo2.OperationStrategy (OperationStrategy.java:70) - Selected A wrong choice
+INFO  | 2018-10-30 12:04:27 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 12:04:27 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 1. Addition
+INFO  | 2018-10-30 12:04:27 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 2. Subtraction
+INFO  | 2018-10-30 12:04:27 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 3. Multiplication
+INFO  | 2018-10-30 12:04:27 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 4. Division
+INFO  | 2018-10-30 12:04:27 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ 5. Exit
+INFO  | 2018-10-30 12:04:27 | [main] demo2.OperationStrategy (OperationStrategy.java:33) - 
+ Enter the choice: 
+INFO  | 2018-10-30 12:04:28 | [main] demo2.OperationStrategy (OperationStrategy.java:70) - Selected A wrong choice
+INFO  | 2018-10-30 12:04:28 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 12:04:28 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 1. Addition
+INFO  | 2018-10-30 12:04:28 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 2. Subtraction
+INFO  | 2018-10-30 12:04:28 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 3. Multiplication
+INFO  | 2018-10-30 12:04:28 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 4. Division
+INFO  | 2018-10-30 12:04:28 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ 5. Exit
+INFO  | 2018-10-30 12:04:28 | [main] demo2.OperationStrategy (OperationStrategy.java:33) - 
+ Enter the choice: 
+INFO  | 2018-10-30 12:04:33 | [main] demo2.OperationStrategy (OperationStrategy.java:76) - 
+ Enter the value for Operand1: 
+INFO  | 2018-10-30 12:04:33 | [main] demo2.OperationStrategy (OperationStrategy.java:78) - 
+ Enter the value for Operand2: 
+INFO  | 2018-10-30 12:04:34 | [main] demo2.OperationStrategy (OperationStrategy.java:65) - The result is: 1
+INFO  | 2018-10-30 12:04:34 | [main] demo2.OperationStrategy (OperationStrategy.java:27) - ********* OPERATION MENU ************
+INFO  | 2018-10-30 12:04:34 | [main] demo2.OperationStrategy (OperationStrategy.java:28) - 
+ 1. Addition
+INFO  | 2018-10-30 12:04:34 | [main] demo2.OperationStrategy (OperationStrategy.java:29) - 
+ 2. Subtraction
+INFO  | 2018-10-30 12:04:34 | [main] demo2.OperationStrategy (OperationStrategy.java:30) - 
+ 3. Multiplication
+INFO  | 2018-10-30 12:04:34 | [main] demo2.OperationStrategy (OperationStrategy.java:31) - 
+ 4. Division
+INFO  | 2018-10-30 12:04:34 | [main] demo2.OperationStrategy (OperationStrategy.java:32) - 
+ 5. Exit
+INFO  | 2018-10-30 12:04:34 | [main] demo2.OperationStrategy (OperationStrategy.java:33) - 
+ Enter the choice: 

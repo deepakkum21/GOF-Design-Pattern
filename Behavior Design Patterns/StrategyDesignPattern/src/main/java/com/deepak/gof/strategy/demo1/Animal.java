@@ -1,6 +1,6 @@
-package com.deepak.gof.strategy;
+package com.deepak.gof.strategy.demo1;
 
-import com.deepak.gof.strategy.flying.IFlys;
+import com.deepak.gof.strategy.demo1.flying.IFlys;
 
 public class Animal {
 

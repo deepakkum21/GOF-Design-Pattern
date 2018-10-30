@@ -1,6 +1,6 @@
-package com.deepak.gof.strategy;
+package com.deepak.gof.strategy.demo1;
 
-import com.deepak.gof.strategy.flying.ItFlys;
+import com.deepak.gof.strategy.demo1.flying.ItFlys;
 
 public class Bird extends Animal {
 	

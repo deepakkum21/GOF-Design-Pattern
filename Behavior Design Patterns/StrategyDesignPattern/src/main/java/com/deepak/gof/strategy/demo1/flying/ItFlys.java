@@ -1,6 +1,4 @@
-package com.deepak.gof.strategy.flying;
-
-import com.deepak.gof.strategy.flying.IFlys;
+package com.deepak.gof.strategy.demo1.flying;
 
 // Class used if the Animal can fly
  
