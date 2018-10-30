@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- To change this license header, choose License Headers in Project Properties. 
+	To change this template file, choose Tools | Templates and open the template 
+	in the editor. -->
+<Configuration xmlns="http://logging.apache.org/log4j/2.0/config">
+	<Appenders>
+		<File name="AnimalStrategyPattern" fileName="LogFile\Animal.log" append="true">
+			<PatternLayout
+				pattern="%-5p | %d{yyyy-MM-dd HH:mm:ss} | [%t] %C{2} (%F:%L) - %m%n" />
+		</File>
+		
+		<File name="OperationStrategyPattern" fileName="LogFile\Operation.log" append="true">
+			<PatternLayout
+				pattern="%-5p | %d{yyyy-MM-dd HH:mm:ss} | [%t] %C{2} (%F:%L) - %m%n" />
+		</File>
+		
+		<!-- <File name="empAcademic" fileName="LogFile\AcademicLogfile.log" append="true">
+			<PatternLayout
+				pattern="%-5p | %d{yyyy-MM-dd HH:mm:ss} | [%t] %C{2} (%F:%L) - %m%n" />
+		</File>
+		
+		<File name="empPrevious" fileName="LogFile\PreviousEmploymentLogfile.log" append="true">
+			<PatternLayout
+				pattern="%-5p | %d{yyyy-MM-dd HH:mm:ss} | [%t] %C{2} (%F:%L) - %m%n" />
+		</File>
+		
+		<File name="utility" fileName="LogFile\UtilityLogfile.log" append="true">
+			<PatternLayout
+				pattern="%-5p | %d{yyyy-MM-dd HH:mm:ss} | [%t] %C{2} (%F:%L) - %m%n" />
+		</File> -->
+		
+		
+		<Console name="STDOUT" target="SYSTEM_OUT">
+			<PatternLayout
+				pattern=" %m%n" />
+		</Console>
+	</Appenders>
+	<Loggers>
+	<Logger name="com.deepak.gof.strategy.AnimalStrategyPattern" level="info" additivity="false">
+			<AppenderRef ref="STDOUT" />
+			<AppenderRef ref="AnimalStrategyPattern" />
+		</Logger>
+		<Logger name="com.deepak.gof.strategy.demo2.OperationStrategy" level="info" additivity="false">
+			<AppenderRef ref="STDOUT" />
+			<AppenderRef ref="OperationStrategyPattern" />
+		</Logger>
+			
+		<!-- <Logger name="com.stpl.deepak.employee.personal" level="info" additivity="false">
+			<AppenderRef ref="STDOUT" />
+			<AppenderRef ref="empPersonal" />
+		</Logger>
+		
+		<Logger name="com.stpl.deepak.employee.academic" level="info" additivity="false">
+			<AppenderRef ref="STDOUT" />
+			<AppenderRef ref="empAcademic" />
+		</Logger>
+		
+		<Logger name="com.stpl.deepak.employee.prevemployement" level="info" additivity="false">
+			<AppenderRef ref="STDOUT" />
+			<AppenderRef ref="empPrevious" />
+		</Logger> -->
+		  
+		<Root level="info">
+			<AppenderRef ref="STDOUT" />
+			
+		</Root>
+	</Loggers>
+</Configuration>
