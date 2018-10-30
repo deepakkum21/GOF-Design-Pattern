@@ -21,4 +21,4 @@ Allows one of a family of algorithms to be selected on-the-fly at run-time i.e. 
 ## Cons:
 1. Increases no of classes and objects
 
-![image](Behavior Design Patterns/StrategyDesignPattern/Strategy Pattern.PNG)
+![image](../Strategy Pattern.PNG)
