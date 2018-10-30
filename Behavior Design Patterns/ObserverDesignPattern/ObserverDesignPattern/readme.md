@@ -7,4 +7,9 @@
     a. Stock market with thousands of stocks need to send updates to object representing individual stocks.
     b. The Subject (publisher) sends many stocks to the Observers.
     c. the Observers (subscribers) takes the ones they want and use them.
-    
+
+### example 1
+![ex 1](https://github.com/deepakkum21/GOF-Design-Pattern/blob/master/Behavior%20Design%20Patterns/ObserverDesignPattern/ObserverDesignPattern/images/Observer%20Design%20Pattern%201.PNG) 
+
+### example 2
+![ex 2](https://github.com/deepakkum21/GOF-Design-Pattern/blob/master/Behavior%20Design%20Patterns/ObserverDesignPattern/ObserverDesignPattern/images/Observer%20Design%20Pattern%202.PNG)
