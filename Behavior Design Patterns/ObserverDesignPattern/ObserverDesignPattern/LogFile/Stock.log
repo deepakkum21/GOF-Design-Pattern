@@ -1,0 +1,7 @@
+INFO  | 2018-10-30 18:53:24 | [main] demo2.StockObserverPatternDemo (StockObserverPatternDemo.java:26) - Enter the new StockPrice value for Infosys: 
+INFO  | 2018-10-30 18:53:49 | [main] demo2.StockObserverPatternDemo (StockObserverPatternDemo.java:26) - Enter the new StockPrice value for Infosys: 
+INFO  | 2018-10-30 18:53:56 | [main] demo2.StockObserverPatternDemo (StockObserverPatternDemo.java:29) - Enter the new StockPrice value for Hcl: 
+INFO  | 2018-10-30 18:54:08 | [main] demo2.StockObserverPatternDemo (StockObserverPatternDemo.java:32) - Enter the new StockPrice value for Tcs: 
+INFO  | 2018-10-30 18:58:24 | [main] demo2.StockObserverPatternDemo (StockObserverPatternDemo.java:26) - Enter the new StockPrice value for Infosys: 
+INFO  | 2018-10-30 18:58:36 | [main] demo2.StockObserverPatternDemo (StockObserverPatternDemo.java:29) - Enter the new StockPrice value for Hcl: 
+INFO  | 2018-10-30 18:58:50 | [main] demo2.StockObserverPatternDemo (StockObserverPatternDemo.java:32) - Enter the new StockPrice value for Tcs: 

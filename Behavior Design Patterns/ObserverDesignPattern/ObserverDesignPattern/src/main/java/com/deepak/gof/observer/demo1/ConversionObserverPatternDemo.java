@@ -7,13 +7,13 @@ import java.io.InputStreamReader;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-public class ObserverPatternDemo {
+public class ConversionObserverPatternDemo {
 
-    private static final Logger logger = LogManager.getLogger(ObserverPatternDemo.class);
+    private static final Logger logger = LogManager.getLogger(ConversionObserverPatternDemo.class);
     private BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
     public static void main (String... args) throws NumberFormatException, IOException {
-        ObserverPatternDemo observerPatternDemo = new ObserverPatternDemo();
+        ConversionObserverPatternDemo observerPatternDemo = new ConversionObserverPatternDemo();
         
         Subject subject = new Subject();
 
