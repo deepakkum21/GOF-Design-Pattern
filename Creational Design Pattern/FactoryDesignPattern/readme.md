@@ -17,3 +17,7 @@ When you are gettin an object by calling method of other object that method is r
 - **valueOf()** method in wrapper classes like Boolean, Integer etc.
 
 ## Advantage:
+
+## example
+![demo1](https://github.com/deepakkum21/GOF-Design-Pattern/blob/master/Creational%20Design%20Pattern/FactoryDesignPattern/images/Factory%20Pattern%202.PNG)
+![image](https://github.com/deepakkum21/GOF-Design-Pattern/blob/master/Creational%20Design%20Pattern/FactoryDesignPattern/images/Factory%20Pattern%201.PNG)
