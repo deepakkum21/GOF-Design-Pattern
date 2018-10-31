@@ -1,6 +1,9 @@
 
-# Strategy.
+# Strategy (Policy Pattern).
 Allows one of a family of algorithms to be selected on-the-fly at run-time i.e. a class behavior or its algorithm can be changed at run time.
+
+## Java Api example:
+ **Collections.sort()** method that takes Comparator parameter. Based on the different implementations of Comparator interfaces, the Objects are getting sorted in different ways.
 
 
 ## When to use
@@ -22,3 +25,5 @@ Allows one of a family of algorithms to be selected on-the-fly at run-time i.e. 
 1. Increases no of classes and objects
 
 ![image](https://github.com/deepakkum21/GOF-Design-Pattern/blob/master/Behavior%20Design%20Patterns/StrategyDesignPattern/Strategy%20Pattern.PNG)
+
+![demo3](https://cdn.journaldev.com/wp-content/uploads/2013/07/Strategy-Pattern.png)
