@@ -1,0 +1,6 @@
+INFO  | 2018-10-31 16:25:01 | [main] demo1.ShapeFactoryPatternDemo (ShapeFactoryPatternDemo.java:20) - **** Shape Factory menu ****
+INFO  | 2018-10-31 16:25:01 | [main] demo1.ShapeFactoryPatternDemo (ShapeFactoryPatternDemo.java:21) -  CIRCLE
+INFO  | 2018-10-31 16:25:01 | [main] demo1.ShapeFactoryPatternDemo (ShapeFactoryPatternDemo.java:22) -  RECTANGLE
+INFO  | 2018-10-31 16:25:01 | [main] demo1.ShapeFactoryPatternDemo (ShapeFactoryPatternDemo.java:23) -  SQUARE
+INFO  | 2018-10-31 16:25:01 | [main] demo1.ShapeFactoryPatternDemo (ShapeFactoryPatternDemo.java:24) -  TRIANGLE
+INFO  | 2018-10-31 16:25:06 | [main] demo1.ShapeFactoryPatternDemo (ShapeFactoryPatternDemo.java:26) - you have got Square Object

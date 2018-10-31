@@ -10,13 +10,13 @@ public class ShapeFactory {
     public IShape getShape (String shapeType) {
         if (shapeType == null ) {
             return null;
-        } else if (shapeType.equalsIgnoreCase("CIRCLE")) {
+        } else if (("CIRCLE").equalsIgnoreCase(shapeType)) {
             return new CircleShape();
-        } else if (shapeType.equalsIgnoreCase("TRIANGLE")) {
+        } else if (("TRIANGLE").equalsIgnoreCase(shapeType)) {
             return new TriangleShape();
-        } else if (shapeType.equalsIgnoreCase("SQUARE")) {
+        } else if (("SQUARE").equalsIgnoreCase(shapeType)) {
             return new SquareShape();
-        } else if (shapeType.equalsIgnoreCase("RECTANGLE")) {
+        } else if (("RECTANGLE").equalsIgnoreCase(shapeType)) {
             return new RectangleShape();
         } 
         return null;

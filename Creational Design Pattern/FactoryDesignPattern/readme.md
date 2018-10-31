@@ -20,4 +20,4 @@ When you are gettin an object by calling method of other object that method is r
 
 ## example
 ![demo1](https://github.com/deepakkum21/GOF-Design-Pattern/blob/master/Creational%20Design%20Pattern/FactoryDesignPattern/images/Factory%20Pattern%202.PNG)
-![image](https://github.com/deepakkum21/GOF-Design-Pattern/blob/master/Creational%20Design%20Pattern/FactoryDesignPattern/images/Factory%20Pattern%201.PNG)
+![demo2](https://github.com/deepakkum21/GOF-Design-Pattern/blob/master/Creational%20Design%20Pattern/FactoryDesignPattern/images/Factory%20Pattern%201.PNG)

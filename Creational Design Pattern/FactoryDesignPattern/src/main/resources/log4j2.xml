@@ -4,7 +4,7 @@
 	in the editor. -->
 <Configuration xmlns="http://logging.apache.org/log4j/2.0/config">
 	<Appenders>
-		<File name="ConversionObserverPattern" fileName="LogFile\Conversion.log" append="true">
+		<File name="ShapeFactoryPattern" fileName="LogFile\Shape.log" append="true">
 			<PatternLayout
 				pattern="%-5p | %d{yyyy-MM-dd HH:mm:ss} | [%t] %C{2} (%F:%L) - %m%n" />
 		</File>	
@@ -20,9 +20,9 @@
 		</Console>
 	</Appenders>
 	<Loggers>
-		<Logger name="com.deepak.gof.observer.demo1.ConversionObserverPatternDemo" level="info" additivity="false">
+		<Logger name="com.deepak.gof.factory.demo1.ShapeFactoryPatternDemo" level="info" additivity="false">
 			<AppenderRef ref="STDOUT" />
-			<AppenderRef ref="ConversionObserverPattern" />
+			<AppenderRef ref="ShapeFactoryPattern" />
 		</Logger>
 
 		<Logger name="com.deepak.gof.observer.demo2.StockObserverPatternDemo" level="info" additivity="false">
