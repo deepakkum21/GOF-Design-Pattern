@@ -14,12 +14,12 @@
 				pattern="%-5p | %d{yyyy-MM-dd HH:mm:ss} | [%t] %C{2} (%F:%L) - %m%n" />
 		</File>
 		
-		<!-- <File name="empAcademic" fileName="LogFile\AcademicLogfile.log" append="true">
+		<File name="PaymentStrategyPattern" fileName="LogFile\Payment.log" append="true">
 			<PatternLayout
 				pattern="%-5p | %d{yyyy-MM-dd HH:mm:ss} | [%t] %C{2} (%F:%L) - %m%n" />
 		</File>
 		
-		<File name="empPrevious" fileName="LogFile\PreviousEmploymentLogfile.log" append="true">
+		<!-- <File name="empPrevious" fileName="LogFile\PreviousEmploymentLogfile.log" append="true">
 			<PatternLayout
 				pattern="%-5p | %d{yyyy-MM-dd HH:mm:ss} | [%t] %C{2} (%F:%L) - %m%n" />
 		</File>
@@ -45,12 +45,12 @@
 			<AppenderRef ref="OperationStrategyPattern" />
 		</Logger>
 			
-		<!-- <Logger name="com.stpl.deepak.employee.personal" level="info" additivity="false">
+		<Logger name="com.deepak.gof.strategy.demo2.PaymentStrategyPatternDemo" level="info" additivity="false">
 			<AppenderRef ref="STDOUT" />
-			<AppenderRef ref="empPersonal" />
+			<AppenderRef ref="PaymentStrategyPattern" />
 		</Logger>
 		
-		<Logger name="com.stpl.deepak.employee.academic" level="info" additivity="false">
+		<!-- <Logger name="com.stpl.deepak.employee.academic" level="info" additivity="false">
 			<AppenderRef ref="STDOUT" />
 			<AppenderRef ref="empAcademic" />
 		</Logger>
