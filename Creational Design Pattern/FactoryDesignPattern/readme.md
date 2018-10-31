@@ -17,6 +17,9 @@ When you are gettin an object by calling method of other object that method is r
 - **valueOf()** method in wrapper classes like Boolean, Integer etc.
 
 ## Advantage:
+1. Factory design pattern provides approach to code for interface rather than implementation.
+2. Factory pattern removes the instantiation of actual implementation classes from client code.
+3. Factory pattern provides abstraction between implementation and client classes through inheritance.
 
 ## example
 ![demo1](https://github.com/deepakkum21/GOF-Design-Pattern/blob/master/Creational%20Design%20Pattern/FactoryDesignPattern/images/Factory%20Pattern%202.PNG)
