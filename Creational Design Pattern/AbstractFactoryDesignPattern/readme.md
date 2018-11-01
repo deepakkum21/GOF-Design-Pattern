@@ -15,4 +15,6 @@
 - javax.xml.xpath.XPathFactory#newInstance()
 
 ## example:
-![demo1](https://cdn.journaldev.com/wp-content/uploads/2013/05/factory-pattern-java.png)
+![demo1](https://github.com/deepakkum21/GOF-Design-Pattern/blob/master/Creational%20Design%20Pattern/AbstractFactoryDesignPattern/image/Abstract%20Factory%20Pattern%201.PNG)
+
+![demo2](https://github.com/deepakkum21/GOF-Design-Pattern/blob/master/Creational%20Design%20Pattern/AbstractFactoryDesignPattern/image/Abstract%20Factory%20Pattern%202.PNG)
