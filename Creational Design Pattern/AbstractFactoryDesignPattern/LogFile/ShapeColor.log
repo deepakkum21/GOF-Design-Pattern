@@ -1,0 +1,9 @@
+INFO  | 2018-11-01 12:37:35 | [main] demo1.ShapeAbstractPatternDemo (ShapeAbstractPatternDemo.java:22) - Enter COLOR or SHAPE for Abstract Factory Demo
+INFO  | 2018-11-01 12:37:40 | [main] demo1.ShapeAbstractPatternDemo (ShapeAbstractPatternDemo.java:28) - Enter RED or BLUE or GREEN for Creating Color Object
+INFO  | 2018-11-01 12:37:44 | [main] demo1.ShapeAbstractPatternDemo (ShapeAbstractPatternDemo.java:30) -  You have got Red Color Object to Fill 
+INFO  | 2018-11-01 12:37:58 | [main] demo1.ShapeAbstractPatternDemo (ShapeAbstractPatternDemo.java:22) - Enter COLOR or SHAPE for Abstract Factory Demo
+INFO  | 2018-11-01 12:38:04 | [main] demo1.ShapeAbstractPatternDemo (ShapeAbstractPatternDemo.java:32) - Enter CIRCLE or RECTANGLE or SQUARE for Creating Color Object
+INFO  | 2018-11-01 12:38:07 | [main] demo1.ShapeAbstractPatternDemo (ShapeAbstractPatternDemo.java:34) - You Got Circle Shape object
+INFO  | 2018-11-01 12:39:02 | [main] demo1.ShapeAbstractPatternDemo (ShapeAbstractPatternDemo.java:22) - Enter COLOR or SHAPE for Abstract Factory Demo
+INFO  | 2018-11-01 12:39:05 | [main] demo1.ShapeAbstractPatternDemo (ShapeAbstractPatternDemo.java:32) - Enter CIRCLE or RECTANGLE or SQUARE for Creating Color Object
+INFO  | 2018-11-01 12:39:09 | [main] demo1.ShapeAbstractPatternDemo (ShapeAbstractPatternDemo.java:34) - You Got Square Shape object to Draw

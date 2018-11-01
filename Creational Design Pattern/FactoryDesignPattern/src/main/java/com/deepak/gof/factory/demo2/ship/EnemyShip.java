@@ -43,7 +43,7 @@ public abstract class EnemyShip implements IShip{
 
 	public String enemyShipShoots() {
 
-		return (getName() + " attacks and does " + getDamage() + " damage to hero ");
+		return (getName() + " attacks and does " + getDamage() + "% damage to hero ");
 
 	}
 
