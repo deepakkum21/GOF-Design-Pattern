@@ -1,0 +1,13 @@
+INFO  | 2018-11-02 18:02:43 | [main] demo2.ComputerAbstractPatternDemo (ComputerAbstractPatternDemo.java:20) - Enter PC for Personal Computer or SEV for Server Computer
+INFO  | 2018-11-02 18:02:51 | [main] demo2.ComputerAbstractPatternDemo (ComputerAbstractPatternDemo.java:22) - Enter the Hard Disk Capacity you want: 
+INFO  | 2018-11-02 18:02:54 | [main] demo2.ComputerAbstractPatternDemo (ComputerAbstractPatternDemo.java:24) - Enter the Ram Capacity you want: 
+INFO  | 2018-11-02 18:02:58 | [main] demo2.ComputerAbstractPatternDemo (ComputerAbstractPatternDemo.java:26) - Enter the Cpu Frequency you want: 
+INFO  | 2018-11-02 18:03:03 | [main] demo2.ComputerAbstractPatternDemo (ComputerAbstractPatternDemo.java:30) - Enter the No of Nodes you want to connect: 
+INFO  | 2018-11-02 18:03:08 | [main] demo2.ComputerAbstractPatternDemo (ComputerAbstractPatternDemo.java:32) - Server Computer created With
+RAM= 16, HDD= 200, CPU= 4.0, Nodes = 40
+INFO  | 2018-11-02 18:04:31 | [main] demo2.ComputerAbstractPatternDemo (ComputerAbstractPatternDemo.java:20) - Enter PC for Personal Computer or SEV for Server Computer
+INFO  | 2018-11-02 18:04:34 | [main] demo2.ComputerAbstractPatternDemo (ComputerAbstractPatternDemo.java:22) - Enter the Hard Disk Capacity you want: 
+INFO  | 2018-11-02 18:04:37 | [main] demo2.ComputerAbstractPatternDemo (ComputerAbstractPatternDemo.java:24) - Enter the Ram Capacity you want: 
+INFO  | 2018-11-02 18:04:39 | [main] demo2.ComputerAbstractPatternDemo (ComputerAbstractPatternDemo.java:26) - Enter the Cpu Frequency you want: 
+INFO  | 2018-11-02 18:04:41 | [main] demo2.ComputerAbstractPatternDemo (ComputerAbstractPatternDemo.java:35) - Personal Computer created With
+RAM= 32GB, HDD= 500GB, CPU=2.5GHz
