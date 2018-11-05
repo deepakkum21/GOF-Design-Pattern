@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- To change this license header, choose License Headers in Project Properties. 
+	To change this template file, choose Tools | Templates and open the template 
+	in the editor. -->
+<Configuration xmlns="http://logging.apache.org/log4j/2.0/config">
+	<Appenders>
+		<File name="ShapeAbstractPattern" fileName="LogFile\ShapeColor.log" append="true">
+			<PatternLayout
+				pattern="%-5p | %d{yyyy-MM-dd HH:mm:ss} | [%t] %C{2} (%F:%L) - %m%n" />
+		</File>
+		
+		<File name="ComputerAbstractPattern" fileName="LogFile\Operation.log" append="true">
+			<PatternLayout
+				pattern="%-5p | %d{yyyy-MM-dd HH:mm:ss} | [%t] %C{2} (%F:%L) - %m%n" />
+		</File>		
+		
+		<Console name="STDOUT" target="SYSTEM_OUT">
+			<PatternLayout
+				pattern=" %m%n" />
+		</Console>
+	</Appenders>
+	<Loggers>
+	<Logger name="com.deepak.gof.abstractfactory.demo1.ShapeAbstractPatternDemo" level="info" additivity="false">
+			<AppenderRef ref="STDOUT" />
+			<AppenderRef ref="ShapeAbstractPattern" />
+		</Logger>
+		<Logger name="com.deepak.gof.abstractfactory.demo2.ComputerAbstractPatternDemo" level="info" additivity="false">
+			<AppenderRef ref="STDOUT" />
+			<AppenderRef ref="ComputerAbstractPattern" />
+		</Logger>
+		  
+		<Root level="info">
+			<AppenderRef ref="STDOUT" />
+			
+		</Root>
+	</Loggers>
+</Configuration>
