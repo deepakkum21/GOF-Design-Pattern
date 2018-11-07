@@ -18,7 +18,8 @@ public class SerializedSingleton implements Serializable {
         return SerializedInnnerClass.SERIALIZED_SINGLETON_INSTANCE;
     }
 
-    // if not implemented then both the instance of serialize and deserialize will have different hashCode
+    // if not implemented then both the instance of serialize and deserialize will
+    // have different hashCode
     protected Object readResolve() {
         return getSerializedSingletonInstance();
     }

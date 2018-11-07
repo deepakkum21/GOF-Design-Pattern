@@ -4,15 +4,10 @@
 	in the editor. -->
 <Configuration xmlns="http://logging.apache.org/log4j/2.0/config">
 	<Appenders>
-		<File name="ShapeAbstractPattern" fileName="LogFile\ShapeColor.log" append="true">
+		<File name="SingletonPattern" fileName="LogFile\Singleton.log" append="true">
 			<PatternLayout
 				pattern="%-5p | %d{yyyy-MM-dd HH:mm:ss} | [%t] %C{2} (%F:%L) - %m%n" />
-		</File>
-		
-		<File name="ComputerAbstractPattern" fileName="LogFile\Operation.log" append="true">
-			<PatternLayout
-				pattern="%-5p | %d{yyyy-MM-dd HH:mm:ss} | [%t] %C{2} (%F:%L) - %m%n" />
-		</File>		
+		</File>	
 		
 		<Console name="STDOUT" target="SYSTEM_OUT">
 			<PatternLayout
@@ -20,13 +15,9 @@
 		</Console>
 	</Appenders>
 	<Loggers>
-	<Logger name="com.deepak.gof.abstractfactory.demo1.ShapeAbstractPatternDemo" level="info" additivity="false">
+	<Logger name="com.deepak.gof.singleton.demo1.serializedinitialization.SerializedSingletonDemo" level="info" additivity="false">
 			<AppenderRef ref="STDOUT" />
-			<AppenderRef ref="ShapeAbstractPattern" />
-		</Logger>
-		<Logger name="com.deepak.gof.abstractfactory.demo2.ComputerAbstractPatternDemo" level="info" additivity="false">
-			<AppenderRef ref="STDOUT" />
-			<AppenderRef ref="ComputerAbstractPattern" />
+			<AppenderRef ref="SingletonPattern" />
 		</Logger>
 		  
 		<Root level="info">

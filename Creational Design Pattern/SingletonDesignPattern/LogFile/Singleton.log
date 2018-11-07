@@ -1,0 +1,2 @@
+INFO  | 2018-11-05 16:13:44 | [main] serializedinitialization.SerializedSingletonDemo (SerializedSingletonDemo.java:33) - instanceOne hashCode=662736689
+INFO  | 2018-11-05 16:13:44 | [main] serializedinitialization.SerializedSingletonDemo (SerializedSingletonDemo.java:34) - instanceTwo hashCode=662736689

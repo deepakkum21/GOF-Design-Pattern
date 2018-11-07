@@ -7,9 +7,15 @@ import java.io.IOException;
 import java.io.ObjectInput;
 import java.io.ObjectOutput;
 import java.io.ObjectOutputStream;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 import java.io.ObjectInputStream;
 
 public class SerializedSingletonDemo {
+
+    private static final Logger singletonLogger = LogManager.getLogger(SerializedSingletonDemo.class);
 
     public static void main(String... args) throws FileNotFoundException, IOException, ClassNotFoundException {
         SerializedSingleton firstInstSingleton = SerializedSingleton.getSerializedSingletonInstance();
@@ -24,7 +30,7 @@ public class SerializedSingletonDemo {
         SerializedSingleton instanceTwo = (SerializedSingleton) objInput.readObject();
         objInput.close();
 
-        System.out.println("instanceOne hashCode="+firstInstSingleton.hashCode());
-        System.out.println("instanceTwo hashCode="+instanceTwo.hashCode());
+        singletonLogger.info("instanceOne hashCode="+firstInstSingleton.hashCode());
+        singletonLogger.info("instanceTwo hashCode="+instanceTwo.hashCode());
     }
 }
