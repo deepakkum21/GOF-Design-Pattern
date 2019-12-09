@@ -3,8 +3,8 @@ Design Pattern By Gangs Of Four
 
 
 ## 1. Structural
-a. Facade Design Pattern (SL4J)
-b. FlyWeight degign Pattern (String)
+### a. Facade Design Pattern (SL4J)
+### b. FlyWeight degign Pattern (String)
 - Flyweight design pattern is used when we need to create a lot of Objects of a class. 
 - Since every object consumes memory space that can be crucial for low memory devices, such as mobile devices or embedded systems, flyweight design pattern can be applied to reduce the load on memory by sharing objects.
 - Before we apply flyweight design pattern, we need to consider following factors:
