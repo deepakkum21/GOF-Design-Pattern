@@ -1,6 +1,5 @@
 # GOF-Design-Pattern
-Design Pattern By Gangs Of Four
-
+Design Pattern By Gangs Of Four:-
 
 ## 1. Structural
 ### a. Facade Design Pattern (SL4J)
